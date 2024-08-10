@@ -1,0 +1,6 @@
+.pytest_cashe/
+__pycache__/
+Autologin-package/
+Page-Screenshots/
+Storage-file/
+autoit.au3
