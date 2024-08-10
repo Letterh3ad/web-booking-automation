@@ -1,0 +1,9 @@
+https://visa.vfsglobal.com/cpv/pt/prt/login
+test@marca.33mail.com
+Test@2121
+
+Proxy:
+Hostname: geo.iproyal.com:12321:zVO94b9ZpCtswL7K:Zb3Mp8F8rpsMNIXI_session-8Qetgtt9_lifetime-59m_streaming-1
+Proxy Username:zVO94b9ZpCtswL7K
+Password: :Zb3Mp8F8rpsMNIXI_session-8Qetgtt9_lifetime-59m_streaming-1
+port:12321

@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Proxy Auth Extension",
+  "version": "1.0",
+  "description": "Chrome extension to handle proxy authentication.",
+  "permissions": [
+    "proxy",
+    "storage",
+    "webRequest",
+    "*://*/*"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  }
+}
